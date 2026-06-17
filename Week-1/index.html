@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Volume Control</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="app">
+
+    <h1 class="title">VOLUME CONTROL</h1>
+
+    <div class="vol-number" id="volNumber">50</div>
+    <div class="vol-track">
+      <div class="vol-fill" id="volFill"></div>
+    </div>
+
+    <div class="arrow-zone" id="arrowZone">
+      <div class="arrow-slot" id="arrowSlot">—</div>
+    </div>
+
+    <div class="key-hint">↑ ↓ ← → match the arrow before it disappears</div>
+
+    <div class="game-over hidden" id="gameOver">
+      <span id="gameOverText">VOLUME 0</span>
+    </div>
+
+    <button class="reset-btn" id="resetBtn">restart</button>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
