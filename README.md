@@ -11,7 +11,7 @@ This repository contains all 4 weekly assignments for the Web Development Learne
 ```
 .
 ├── Week-1/   → Creatively Bad UI (Volume Control reflex game)
-├── Week-2/   → Coming soon
+├── Week-2/   → Mini Food Ordering Hub (React cart app)
 ├── Week-3/   → Coming soon
 ├── Week-4/   → Coming soon
 └── README.md → This file
@@ -24,6 +24,9 @@ Each week's folder contains its own `README.md` explaining that week's specific 
 ## Week 1 — Creatively Bad UI
 
 An intentionally frustrating volume control built as a reflex game, inspired by the arrow-matching minigames in GTA San Andreas. Full details in [`Week-1/README.md`](./Week-1/README.md).
+
+## Week 2 — Mini Food Ordering Hub
+A React + Vite food ordering app with a live-updating cart — quantity tracking, real-time totals, and search filtering. Full details in [`Week-2/README.md`](./Week-2/README.md).
 
 ---
 
