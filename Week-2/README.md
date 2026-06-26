@@ -17,7 +17,7 @@ A small React + Vite app: browse a food menu, add items to a cart, and watch qua
 - **No separate "remove" button** — quantity hitting 0 removes the item automatically, one less code path to maintain.
 
 ## Tech stack
-React 19, Vite, plain CSS. No backend — cart state resets on refresh (in-memory only, by design, to keep scope to the assignment's actual ask).
+React 19, Vite, plain CSS. No backend — cart persistence is browser-local only (localStorage), so it won't sync across devices or browsers
 
 ## Run locally
 ```bash
