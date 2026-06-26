@@ -17,7 +17,11 @@ A small React + Vite app: browse a food menu, add items to a cart, and watch qua
 - **No separate "remove" button** — quantity hitting 0 removes the item automatically, one less code path to maintain.
 
 ## Tech stack
+<<<<<<< HEAD
 React 19, Vite, plain CSS. No backend — cart state resets on refresh (in-memory only, by design, to keep scope to the assignment's actual ask).
+=======
+React 19, Vite, plain CSS. No backend — cart state resets on refresh (this is in-memory only, by design, to keep the scope to the assignment's actual ask).
+>>>>>>> c6eebd946e337b9c1685f480393bd426789bd23a
 
 ## Run locally
 ```bash
@@ -35,5 +39,10 @@ food-ordering-hub/
 │   │   ├── MenuGrid.jsx
 │   │   └── CartSidebar.jsx
 │   ├── App.jsx                # owns cart state + handlers
+<<<<<<< HEAD
 │   └── index.css
 ```
+=======
+│   └── App.css
+```
+>>>>>>> c6eebd946e337b9c1685f480393bd426789bd23a

@@ -2,7 +2,7 @@
 
 This repository contains all 4 weekly assignments for the Web Development Learner's Space.
 
-> 🚧 This README is a placeholder for Week 1. A full write-up of the entire 4-week journey — what was built each week, key learnings, and the final project — will be added once Week 4 is complete.
+> This README is a placeholder for Week 1. A full write-up of the entire 4-week journey — what was built each week, key learnings, and the final project — will be added once Week 4 is complete.
 
 ---
 
