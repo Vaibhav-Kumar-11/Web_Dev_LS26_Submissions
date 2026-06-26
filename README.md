@@ -25,6 +25,9 @@ Each week's folder contains its own `README.md` explaining that week's specific 
 
 An intentionally frustrating volume control built as a reflex game, inspired by the arrow-matching minigames in GTA San Andreas. Full details in [`Week-1/README.md`](./Week-1/README.md).
 
+## Week 2 — Mini Food Ordering Hub
+A React + Vite food ordering app with a live-updating cart — quantity tracking, real-time totals, and search filtering. Full details in [`Week-2/README.md`](./Week-2/README.md).
+
 ---
 
 ## Author
